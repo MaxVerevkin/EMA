@@ -1,0 +1,7 @@
+C:\Users\Maksi\Desktop\Server\Server\bin\Release\Server.exe.config
+C:\Users\Maksi\Desktop\Server\Server\bin\Release\Server.exe
+C:\Users\Maksi\Desktop\Server\Server\bin\Release\Server.pdb
+C:\Users\Maksi\Desktop\Server\Server\obj\Release\Server.csprojAssemblyReference.cache
+C:\Users\Maksi\Desktop\Server\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\Maksi\Desktop\Server\Server\obj\Release\Server.exe
+C:\Users\Maksi\Desktop\Server\Server\obj\Release\Server.pdb
